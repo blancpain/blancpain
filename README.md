@@ -43,4 +43,4 @@ Running, boxing, calisthenics, travelling, watches, gaming
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=blancpain&theme=tokyonight" alt="streak-stats" /> </p>
