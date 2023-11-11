@@ -6,7 +6,6 @@
 ## 📖 About me
 
 * 💻 I'm a self-taught full stack web developer
-* 🌐 I develop web applications
 * 💰 I have a background in finance
 * ❤️ I love learning new technologies
 
