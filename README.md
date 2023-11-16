@@ -15,7 +15,7 @@
 - ⚓ **Battleship Game** - The classic Battleships game implemented with JS, CSS & HTML. Sink the opponent's fleet in this engaging project! [View Battleship](https://github.com/blancpain/battleship)
 - ...and many more!
   
-## 🛠️ Technologies and tools
+## 🛠️ Technologies & Tools
 <img align="left" alt="typescript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="react" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
