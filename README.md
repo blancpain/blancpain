@@ -22,6 +22,7 @@
 <img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="mongodb" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="prisma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 <img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="sequelize" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
@@ -31,6 +32,8 @@
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="nginx" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+<img align="left" alt="prisma" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/prisma.svg" />
+<img align="left" alt="prisma" width="40px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sequelize.svg" />
 <br><br><br><br>
 
 ## 📫 How to reach me:
