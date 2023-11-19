@@ -27,6 +27,7 @@
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="jest" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="nginx" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
