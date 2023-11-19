@@ -30,7 +30,7 @@
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="nginx" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-<br><br><br>
+<br><br><br><br>
 
 ## 📫 How to reach me:
 You can drop me a note at y_dimitrov@ymail.com
