@@ -13,7 +13,7 @@
 - 🍽️ **Mangify** - A full-stack meal planning application with features like personalized macros, shopping lists, and detailed cooking instructions. Explore your culinary journey! [View Mangify](https://github.com/blancpain/mangify)
 - ⌚ **WatchCo** - A React SPA featuring a shopping cart element. While you can't buy the watches, you can explore the beautiful collection! [View WatchCo](https://github.com/blancpain/shopping-cart)
 - ⚓ **Battleship Game** - The classic Battleships game implemented with JS, CSS & HTML. Sink the opponent's fleet in this engaging project! [View Battleship](https://github.com/blancpain/battleship)
-- ...and many more!
+- 💼 Check out my portfolio [here](https://blancpain.github.io/portfolio/)...To see more of my work please feel free to explore my github repos!
   
 ## 🛠️ Technologies & Tools
 <img align="left" alt="typescript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
