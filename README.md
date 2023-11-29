@@ -46,3 +46,5 @@ Running, boxing, calisthenics, travelling, watches, gaming
 
 ## 🔥 Streak Stats
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=blancpain&theme=tokyonight" alt="streak-stats" /> </p>
+
+![](https://komarev.com/ghpvc/?username=blancpain)
