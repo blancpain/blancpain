@@ -10,7 +10,7 @@
 * ❤️ I love building web apps and learning new technologies
 
 ## 🔭 Projects
-- 🍽️ **Mangify** - A full-stack meal planning application with features like personalized macros, shopping lists, and detailed cooking instructions. Explore your culinary journey! [View Mangify](https://github.com/blancpain/mangify)
+- 🍽️ **Mangify** - A full-stack meal planning application with features like user registration, personalized macros, shopping lists, and detailed cooking instructions. Explore your culinary journey! [View Mangify](https://github.com/blancpain/mangify)
 - ⌚ **WatchCo** - A React SPA featuring a shopping cart element. While you can't buy the watches, you can explore the beautiful collection! [View WatchCo](https://github.com/blancpain/shopping-cart)
 - ⚓ **Battleship Game** - The classic Battleships game implemented with JS, CSS & HTML. Sink the opponent's fleet in this engaging project! [View Battleship](https://github.com/blancpain/battleship)
 - 💼 Check out my portfolio [here](https://blancpain.github.io/portfolio/)...To see more of my work please feel free to explore my github repos!
