@@ -12,7 +12,6 @@
 ## 🔭 Projects
 - 🍽️ **Mangify** - A full-stack meal planning application with features like user registration, personalized macros, shopping lists, and detailed cooking instructions. Explore your culinary journey! [View Mangify](https://github.com/blancpain/mangify)
 - ⌚ **WatchCo** - A React SPA featuring a shopping cart element. While you can't buy the watches, you can explore the beautiful collection! [View WatchCo](https://github.com/blancpain/shopping-cart)
-- ✨ **Space Vue** - An interactive visualization of the solar system written in TypeScript and implemented with Vue, Firebase, and NASA APIs! [View SpaceVue](https://github.com/blancpain/space-vue)
 - ⚓ **Battleship Game** - The classic Battleships game implemented with JS, CSS & HTML. Sink the opponent's fleet in this engaging project! [View Battleship](https://github.com/blancpain/battleship)
 - 💼 **Portfolio** - Check out my portfolio [here](https://portfolio-dusky-xi-94.vercel.app/)...To see more of my work, please explore my GitHub repos!
   
