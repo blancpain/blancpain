@@ -12,7 +12,7 @@
 - ⌚ **WatchCo** - A React SPA featuring a shopping cart element. While you can't buy the watches, you can explore the beautiful collection! [View WatchCo](https://github.com/blancpain/shopping-cart)
 - 💼 **Portfolio** - Check out my portfolio [here](https://portfolio-dusky-xi-94.vercel.app/)...To see more of my work, please explore my GitHub repos!
   
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies
 <img align="left" alt="typescript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
@@ -29,11 +29,11 @@
 <img align="left" alt="rabbitmq" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" />
 <br><br>
 
-## 📫 How to reach me:
+## 📫 How to reach me
 You can drop me a note at y_dimitrov@ymail.com
 <br>
 
-## 🤹 Other interests: 
+## 🤹 Other interests
 Running, boxing, calisthenics, traveling, watches, traditional wet shaving
 <br>
 
