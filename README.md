@@ -27,7 +27,7 @@
 <img align="left" alt="redis" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" />
 <img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="rabbitmq" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" />
-<br><br><br><br>
+<br><br>
 
 ## 📫 How to reach me:
 You can drop me a note at y_dimitrov@ymail.com
