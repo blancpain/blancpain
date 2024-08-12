@@ -7,7 +7,7 @@
 
 * 💻 I'm a full-stack web developer currently working at MClimate
 
-## 🔭 Personal side projects
+## 🔭 Personal projects
 - 🍽️ **Mangify** - A full-stack meal planning application with features like user registration, personalized macros, shopping lists, and detailed cooking instructions. Explore your culinary journey! [View Mangify](https://github.com/blancpain/mangify)
 - ⌚ **WatchCo** - A React SPA featuring a shopping cart element. While you can't buy the watches, you can explore the beautiful collection! [View WatchCo](https://github.com/blancpain/shopping-cart)
 - 💼 **Portfolio** - Check out my portfolio [here](https://portfolio-dusky-xi-94.vercel.app/)...To see more of my work, please explore my GitHub repos!
